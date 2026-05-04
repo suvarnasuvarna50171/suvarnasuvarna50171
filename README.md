@@ -14,5 +14,5 @@
 - Learning: AI, Web Development
 
 ## 📫 Connect with me
-LinkedIn: (add later)
+LinkedIn: https://www.linkedin.com/in/suvarna-ullamparthi/
 Portfolio: (add later)
