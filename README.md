@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Suvarna 👩‍💻
 
-<!--
-**suvarnasuvarna50171/suvarnasuvarna50171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Engineering Student  
+🚀 Aspiring Software Engineer | AI Enthusiast  
 
-Here are some ideas to get you started:
+## 🔥 What I'm Working On
+- AI Chatbot
+- Resume Analyzer + Job Matcher
+- HospInsight 360
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Languages: C, Python, Java
+- Tools: Git, GitHub
+- Learning: AI, Web Development
+
+## 📫 Connect with me
+LinkedIn: (add later)
+Portfolio: (add later)
